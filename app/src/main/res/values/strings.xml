@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityiTest</string>
+    <string name="guess_the_name">Guess the name</string>
+    <string name="type_here">Type Here</string>
+</resources>
